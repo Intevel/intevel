@@ -17,4 +17,8 @@
 
 - [linux-open-ports](https://github.com/intevel/linux-open-ports): 📡 Read out all open ports on a linux system
 - [nlwkn-pegelonline-geojson](https://github.com/intevel/nlwkn-pegelonline-geojson): 🗺️ NLWKN Pegelstände als GeoJSON Layer für Karten
-- [ms-teams-status-log](https://github.com/intevel/ms-teams-status-log): Logger for Microsoft Teams presence status *(archived)*
+- [ms-teams-status-log](https://github.com/intevel/ms-teams-status-log): 📼 Logger for Microsoft Teams presence status *(archived)*
+
+#### Other Projects
+
+- [spacebarchat (former fosscord)](https://github.com/spacebarchat/spacebarchat): 📬 Spacebar is a free open source selfhostable discord compatible communication platform
