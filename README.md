@@ -21,4 +21,4 @@
 
 #### Other Projects
 
-- [spacebarchat (former fosscord)](https://github.com/spacebarchat/spacebarchat): 📬 Spacebar is a free open source selfhostable discord compatible communication platform
+- [Spacebar.chat (former fosscord)](https://github.com/spacebarchat/spacebarchat): 📬 Spacebar is a free open source selfhostable discord compatible communication platform
